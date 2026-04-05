@@ -11,7 +11,7 @@ We are a Lisbon-based deep-tech startup dedicated to making **EU AI Act complian
 ---
 
 ## 🇪🇺 EU AI Act Compliance Framework
-Ionosphere is designed from the ground up to satisfy the 2026 enforcement milestones for High-Risk AI systems:
+Paravaha is designed from the ground up to satisfy the 2026 enforcement milestones for High-Risk AI systems:
 
 | Feature | Act Reference | Implementation |
 | :--- | :--- | :--- |
