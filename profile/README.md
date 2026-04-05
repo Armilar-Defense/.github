@@ -1,10 +1,10 @@
-# Ionosphere Labs 🛡️
+# Paravaha Labs 🛡️
 **Establishing the Kernel-Level Standard for Secure Agentic AI.**
 
 ---
 
 ## 🌌 Our Mission
-At **Ionosphere Labs**, we bridge the "Intent Gap" between high-level AI Agents and the low-level Operating System. We provide the **Fortress** that ensures they operate within legal, ethical, and secure boundaries.
+At **Paravaha Labs**, we bridge the "Intent Gap" between high-level AI Agents and the low-level Operating System. We provide the **Fortress** that ensures they operate within legal, ethical, and secure boundaries.
 
 We are a Lisbon-based deep-tech startup dedicated to making **EU AI Act compliance** a deterministic technical reality.
 
