@@ -1,17 +1,17 @@
-# Magnetopause Labs 🛡️
+# Armilar Defense 🛡️
 **Establishing the Kernel-Level Standard for Secure Agentic AI.**
 
 ---
 
 ## 🌌 Our Mission
-At **Magnetopause Labs**, we bridge the "Intent Gap" between high-level AI Agents and the low-level Operating System. We provide the **Fortress** that ensures they operate within legal, ethical, and secure boundaries.
+At **Armilar Defense**, we bridge the "Intent Gap" between high-level AI Agents and the low-level Operating System. We provide the **Fortress** that ensures they operate within legal, ethical, and secure boundaries.
 
 We are a Lisbon-based deep-tech startup dedicated to making **EU AI Act compliance** a deterministic technical reality.
 
 ---
 
 ## 🇪🇺 EU AI Act Compliance Framework
-Guardian is designed from the ground up to satisfy the 2026 enforcement milestones for High-Risk AI systems:
+Armilar Defense - Guardian Project is designed from the ground up to satisfy the 2026 enforcement milestones for High-Risk AI systems:
 
 | Feature | Act Reference | Implementation |
 | :--- | :--- | :--- |
